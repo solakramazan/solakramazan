@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 ### 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="![image](https://user-images.githubusercontent.com/95224231/204658144-c9cda407-6b11-45ea-b95a-7ce28e5c79af.png)" />][instagram]
+[<img align="left" height="24" width="24" src="![image](https://user-images.githubusercontent.com/95224231/204658224-2043fba2-cbf8-4826-a4f0-085873d91d18.png)
+" />][instagram]
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
