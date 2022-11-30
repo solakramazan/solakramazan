@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World 👋, I'm Ramazan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif](https://thumbs.gfycat.com/AstonishingDentalGermanspitz-mobile.mp4)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
