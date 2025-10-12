@@ -1,13 +1,80 @@
+<!-- Banner -->
 
-<h1 align="center">Hello World 👋, I'm Ramazan</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ramazan-solak-2bb016227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan solak" height="30" width="40" /></a>
-<a href="https://instagram.com/solakramazan48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solakramazan48" height="30" width="40" /></a>
+<p align="center">
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/0f172a/2dd4bf%3Ftext%3DRamazan%2BSolak%26font%3Dinter" alt="Ramazan Solak Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Selam, ben Ramazan!</h1>
+<h3 align="center">Frontend Geliştirici & UI/UX Meraklısı</h3>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsolakramazan%26label%3DProfil%2BG%C3%B6r%C3%BCnt%C3%BClenme%26color%3D0e75b6%26style%3Dflat" alt="Profil Görüntülenme Sayısı" />
+</p>
+
+<p align="center">
+<a href="https://ramazansolak.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-ramazansolak.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="ramazansolak.com"/>
+</a>
+<a href="https://www.linkedin.com/in/ramazan-solak-2bb016227/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Ramazan_Solak-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profili"/>
+</a>
+<a href="https://www.behance.net/ramazansolak" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Behance-Ramazan_Solak-053EFF%3Fstyle%3Dfor-the-badge%26logo%3Dbehance%26logoColor%3Dwhite" alt="Behance Profili"/>
+</a>
+</p>
+
+👨‍💻 Hakkımda
+Ben Ramazan Solak, teknolojiye ve tasarıma tutkuyla bağlı bir Frontend Geliştiriciyim. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Modern tasarım trendlerini ve kullanıcı deneyimi odaklı çözümleri, temiz ve performanslı kodlarla birleştirerek estetik ve işlevsel projeler geliştirmeye odaklanıyorum.
+
+🔭 Şu anda React ekosistemindeki yeteneklerimi derinleştiriyor ve yeni projeler geliştiriyorum.
+
+🌱 Next.js ve TypeScript konularında kendimi geliştiriyorum.
+
+📫 Bana solakramazan48@gmail.com adresinden ulaşabilirsiniz.
+
+🚀 Kullandığım Teknolojiler & Araçlar
+<table>
+<tr>
+<td align="center" width="180">
+<strong>Geliştirme</strong>
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-%2523F7DF1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-%252320232A.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-%25237952B3.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Tasarım & Prototipleme</strong>
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-%2523F24E1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" alt="Figma"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Photoshop-%252331A8FF.svg%3Fstyle%3Dfor-the-badge%26logo%3DAdobe%2520Photoshop%26logoColor%3Dwhite" alt="Photoshop"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Illustrator-%2523FF9A00.svg%3Fstyle%3Dfor-the-badge%26logo%3DAdobe%2520Illustrator%26logoColor%3Dwhite" alt="Illustrator"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-%252300C4CC.svg%3Fstyle%3Dfor-the-badge%26logo%3DCanva%26logoColor%3Dwhite" alt="Canva"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Sketch-%2523F7B500.svg%3Fstyle%3Dfor-the-badge%26logo%3Dsketch%26logoColor%3Dwhite" alt="Sketch"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Framer-%25230055FF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dframer%26logoColor%3Dwhite" alt="Framer"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Platformlar & Diğerleri</strong>
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-%2523F05032.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-%2523181717.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-%252321759B.svg%3Fstyle%3Dfor-the-badge%26logo%3DWordPress%26logoColor%3Dwhite" alt="WordPress"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wix-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dwix%26logoColor%3Dwhite" alt="Wix"/>
+</td>
+</tr>
+</table>
+
+📊 GitHub İstatistiklerim
+<p align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsolakramazan%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub"/>&nbsp;&nbsp;
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsolakramazan%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
+</p>
