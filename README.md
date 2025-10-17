@@ -73,7 +73,7 @@ Ben Ramazan Solak, teknolojiye ve tasarıma tutkuyla bağlı bir Frontend Geliş
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solakramazan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=solakramazan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
