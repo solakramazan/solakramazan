@@ -69,13 +69,14 @@ Ben Ramazan Solak, teknolojiye ve tasarıma tutkuyla bağlı bir Frontend Geliş
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solakramazan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/solakramazan">
+    <img src="https://github-readme-stats.vercel.app/api?username=solakramazan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  </a>
+  <a href="https://github.com/solakramazan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solakramazan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=solakramazan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solakramazan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
