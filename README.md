@@ -76,7 +76,3 @@ Ben Ramazan Solak, teknolojiye ve tasarıma tutkuyla bağlı bir Frontend Geliş
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solakramazan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=solakramazan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
